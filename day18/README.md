@@ -1,4 +1,4 @@
-# Day8
+# Day18
 
 Still working on the same game tutorial.
 
