@@ -1,4 +1,4 @@
-# Day 29
+# Day 30
 
 For the same playable cv project implemented different text messages for different levels, I'll make devent looking game scene versions of them in the future.
 
